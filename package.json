@@ -1,0 +1,8 @@
+{
+  "name": "crud_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:Khanaliasad/crud-app-express-mongo.git",
+  "author": "Asad Ali Khan WL1 <asad.khan@cooperativecomputing.com>"
+}
